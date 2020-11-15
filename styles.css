@@ -1,0 +1,56 @@
+.container {
+    text-align: center;
+    align-content: center;
+}
+
+/* .col {
+    background-color: brown;
+    padding: 100px;
+    margin: 50px 40px;
+    border: solid blue;
+} */
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.list-elements {
+    text-align: center;
+    display: none;
+}
+
+.col {
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.generate, .list {
+    margin: 20px;
+    width: 170px;
+    height: 60px;
+}
+
+input {
+    padding: 20px;
+    margin: 20px;
+    width: 230px;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.back {
+    margin-top: 20px;
+}
+
+p {
+    margin: 10px;
+}
+
+.qrImg {
+    margin: 40px;
+}
+
+
